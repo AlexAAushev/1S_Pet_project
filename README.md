@@ -8,5 +8,8 @@
 ## Ссылка
 https://drive.google.com/file/d/1B06tEU8c6qLJBVmUr1M7toePVNYsFqDK/view?usp=sharing
 
-## Демонстрация работы в конфигурации
+## Демонстрация работы в пользовательском режиме
+![Демонстрация_конфигурации_ОООМебельДомТорг](https://github.com/AlexAAushev/1S_Pet_project/assets/126689986/d2f109b3-21bf-4f6b-b811-571136592a08)
 
+## Демонстрация структуры в конфигураторе
+![Демонстрация_2_конфигурации_ОООМебельДомТорг](https://github.com/AlexAAushev/1S_Pet_project/assets/126689986/5c284c8e-d7b2-4282-a59f-b015b388641f)
